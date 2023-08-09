@@ -2,7 +2,8 @@
 """task 1: add a and b using mypy
 
 """
-import mypy
-def add(a: float, b: float)-> float:
-	return a + b
+def add(a: float, b: float) -> float:
+    '''Adds two floating-point numbers.
+    '''
+    return a + b
 
