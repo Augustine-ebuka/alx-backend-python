@@ -1,9 +1,10 @@
-#!/usr/bin/env python 3
+#!/usr/bin/env python3
+'''Task 1's module.
 '''
-task2: concate string
-'''
-def concat(str1: str, str2: str)-> str:
-    '''
-     func that concate str
+
+
+def concat(str1: str, str2: str) -> str:
+    '''Concatenates two strings.
     '''
     return str1 + str2
+
